@@ -8,7 +8,7 @@ from rest_framework.settings import api_settings
 
 from user.serializers import (
     UserSerializer,
-    AuthTokenSerializer
+    AuthTokenSerializer,
     )
 
 
